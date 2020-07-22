@@ -2,6 +2,10 @@
 <elements>
     <info>
         <name>Wild Card Roguish Archetype</name>
+		<description>Wild Card for Jade</description>
+         <update version="0.1">
+            <file name="rogue-wildcard.xml.xml" url="https://github.com/Petersonian/lamp-post/blob/master/rogue-wildcard.xml" />
+        </update>
 	</info>
 	
 	<element name="Wild Card" type="Archetype" source="Heroes and Scoundrels of Bilgewater" id="ID_RIOT_RUNETERRA_ARCHETYPE_WILDCARD">
